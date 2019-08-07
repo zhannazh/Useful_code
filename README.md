@@ -1,1 +1,1 @@
-# Snippets of code that I keep re-using.
+Snippets of code that I keep re-using.
